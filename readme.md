@@ -18,3 +18,14 @@ Analyze vegetable pricing trends, seasonal demand, transportation costs, and was
 
 ## Dataset
 Tamil Nadu Vegetable Price Index Dataset
+
+## SQL Skills Demonstrated
+
+- Aggregation
+- Filtering
+- Sorting
+- Grouping
+- Derived metrics
+- Date analysis
+- Pattern matching
+- Profitability analysis
