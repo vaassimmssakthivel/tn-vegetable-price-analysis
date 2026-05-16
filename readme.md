@@ -29,3 +29,12 @@ Tamil Nadu Vegetable Price Index Dataset
 - Date analysis
 - Pattern matching
 - Profitability analysis
+
+## Advanced Analysis
+
+- Correlation analysis
+- Profitability analysis
+- Price volatility analysis
+- Feature engineering
+- Seasonal analysis
+- SQL aggregations
